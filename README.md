@@ -17,3 +17,5 @@
 <img align="center" width="70" src="https://carcuvorous.carrd.co/assets/images/gallery24/0fc44d6c.gif?v=b471a82b">
 </p>
 <img align="right" width="100" src="https://oceancake.carrd.co/assets/images/gallery05/8dfc7b19.gif?v=edab04a1">
+  <br/>
+<img align="left" width="62" src="https://gifs.crd.co/assets/images/gallery08/7373d484.gif?v=ef433a6f">
