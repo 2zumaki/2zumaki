@@ -1,4 +1,7 @@
+<img align="left" src="https://graphic.neocities.org/tumblr_inline_mqzkwxkWGQ1qz4rgp.gif">
 <p align="center">
+  <br/>
+  <br/>
 <img align="center" src="https://carcuvorous.carrd.co/assets/images/gallery10/56c5e183.png?v=b471a82b">
   <br/>
   <br/>
@@ -12,3 +15,4 @@
   <br/>
 <img align="center" width="70" src="https://carcuvorous.carrd.co/assets/images/gallery24/0fc44d6c.gif?v=b471a82b">
 </p>
+<img align="right" src="https://graphic.neocities.org/tumblr_inline_nl4mx62E0f1ry72eo.gif">
