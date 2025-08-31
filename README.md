@@ -1,6 +1,7 @@
-<img align="left" src="https://graphic.neocities.org/tumblr_inline_mqzkwxkWGQ1qz4rgp.gif">
+<img align="left" src="https://graphic.neocities.org/tumblr_inline_nl4mx62E0f1ry72eo.gif">
+ <br/>
+ <br/>
 <p align="center">
-  <br/>
   <br/>
 <img align="center" src="https://carcuvorous.carrd.co/assets/images/gallery10/56c5e183.png?v=b471a82b">
   <br/>
@@ -15,4 +16,4 @@
   <br/>
 <img align="center" width="70" src="https://carcuvorous.carrd.co/assets/images/gallery24/0fc44d6c.gif?v=b471a82b">
 </p>
-<img align="right" src="https://graphic.neocities.org/tumblr_inline_nl4mx62E0f1ry72eo.gif">
+<img align="right" width="100" src="https://oceancake.carrd.co/assets/images/gallery05/8dfc7b19.gif?v=edab04a1">
