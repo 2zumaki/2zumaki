@@ -11,9 +11,11 @@
 <img align="left" length="10" hspace="30" src="https://f3verdream.carrd.co/assets/images/gallery01/2cbacdb3.png?v=feb5cf14">
 <img align="right" length="10" hspace="30" src="https://f3verdream.carrd.co/assets/images/gallery01/8979b6fe.png?v=feb5cf14">
   <br/>
+<img align="center" src="https://imgur.com/wvon1nC.gif">
   <br/>
 <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=jayy2007&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=ff3700&bar_color_cover=false">
   <br/>
+<img align="center" src="https://imgur.com/wvon1nC.gif">
   <br/>
   <br/>
 <img align="center" src="http://fc04.deviantart.net/fs27/f/2008/142/7/d/Kyuubi_Naruto_Anim_by_Shadowcancer.gif">
